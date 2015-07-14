@@ -1,4 +1,4 @@
-ZendSkeletonApplicatio coucou
+ZendSkeletonApplication
 ======================
 
 Introduction
