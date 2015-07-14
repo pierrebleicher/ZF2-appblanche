@@ -1,4 +1,4 @@
-ZendSkeletonApplication pull ssh
+ZendSkeletonApplication
 ======================
 
 Introduction
