@@ -1,0 +1,15 @@
+{
+    "name": "zendframework/application-blanche",
+    "description": "application blanche pour ZF2",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "framework",
+        "zf2"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "require": {
+        "php": ">=5.5",
+        "zendframework/zendframework": "2.*",
+        "doctrine/orm": "2.5.0"
+    }
+}
