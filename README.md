@@ -1,5 +1,5 @@
-ZendSkeletonApplication
-=======================
+ZendSkeletonApplicatio coucou
+======================
 
 Introduction
 ------------
